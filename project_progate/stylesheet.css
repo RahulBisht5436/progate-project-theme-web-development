@@ -1,0 +1,53 @@
+.header{background-color: #DA1707;
+height:80px;width:100% ;}
+.name{font-family: Arial, Helvetica, sans-serif;font-size:40px ;padding-left:250px ; ;}
+.social{float: left;
+padding-left:250px ;font-size: 20px;padding-top:0px ;color: black;}
+/*.main{background-color: chocolate;padding-top:150px ;}*/
+.introduction{font-size:30px ;padding-top:200px ;padding-left:30px ;align:centre;}
+.logo{height:1cm ;width:1cm ;padding-left:680px ;padding-top:20px ;}
+.social{padding-top:12px;
+    padding-bottom:12px;
+    padding-left:24px;
+    padding-right:24px;
+    color:white;
+    display:inline-block;
+    opacity:0.8;
+border-radius:10px ;}
+    
+.facebook{background-color:#3b5998;}
+.twitter{background-color: #55acee;}
+.instagram{background-color:#F1061F ;}
+.btn:hover{opacity:0.5;
+}
+.title{text-align:centre;
+border-bottom:4px solid black;
+text-align: center;}
+span{color: red;}
+.main{padding-top:35px ;font-size: 30px; padding-top:100px ;background-image:bk.jpg ;}
+.video{padding-left:150px ;}
+.para{width:270px ;height: 200px;}
+.ind{width:270px ;height: 200px;}
+.para:hover{width:75%; height:600px;padding-left: 70px;}
+.ind:hover{width:75%; height:600px;padding-left: 70px;}
+.p1{background-color: brown;border-radius: 10px;}
+.p2{background-image: url(p2.jpg);background-repeat:repeat-x;background-size:  auto 350px;border-radius:10px ;}
+.p2 p{color:white  ;}
+.p3{background-image: url(bk1.jpg);color:whitesmoke;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-repeat: no-repeat;background-size: 100%;border-radius: 10px;}
+
+.logo1{height:100px;padding-left: 500px;}
+.logo2{height:70px;padding-left: 10px;padding-bottom:15px ;}
+.logo3{height:70px;padding-left: 10px;padding-bottom:15px ;}
+.p4{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;color:black;background-image: url(army2.png);background-size: 1350px 500px;background-repeat: no-repeat;border-radius: 10px;}
+.p3{border-bottom:4px solid black;}
+.p2{border-bottom:4px solid black;}
+.p4{border:4px solid black;}
+.p1{border-bottom:4px solid black;}
+.box{width: 200px;
+margin:0 auto;}
+war{padding-left:60px;padding-top: 150px;}
+.logo4{height:70px;padding-left: 10px;padding-bottom:15px ;}
+.info1:hover{font-size:large;}
+.b1{background-image: url(web.jpg);background-size:2000px 4000px;background-repeat: no-repeat;padding-bottom: 20px;background-position:top;}
+.name h1{color:whitesmoke;}
+.info1 p{color:whitesmoke;}
